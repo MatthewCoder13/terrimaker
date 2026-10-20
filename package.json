@@ -5,6 +5,9 @@
   "author": "Matthew Coder <matthewcoder@tutamail.com>",
   "license": "GPL-3.0-only",
   "type": "module",
+  "scripts": {
+    "dev": "nuxt dev"
+  },
   "packageManager": "yarn@4.18.1",
   "dependencies": {
     "@nuxt/ui": "^4.12.0",
